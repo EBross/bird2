@@ -15,7 +15,7 @@ const DEGREE = Math.PI/180;
 
 // LOAD SPRITE SHEET
 const sprite_sheet = new Image();
-sprite_sheet.src = "img/sprite_sheet.png"
+sprite_sheet.src = "https://cdn.jsdelivr.net/gh/EBross/bird2@main/img/sprite_sheet.png"
 
 // LOAD SOUNDS
 const DIE = new Audio();
